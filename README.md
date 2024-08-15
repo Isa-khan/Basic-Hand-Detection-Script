@@ -1,14 +1,14 @@
-# Basic Hand Detection Script
+# Basic Hand Detection Script ✋ 
 
 This Python script uses OpenCV and the `cvzone` library to detect hands in real-time through a webcam feed. The script initializes the webcam, detects hands in the video stream, and displays the live feed with hand detection overlaid.
 
-## Features
+## Features 🚀 
 
 - **Real-time Hand Detection**: Detects up to two hands simultaneously using the `cvzone.HandTrackingModule`.
 - **Customizable Webcam Feed**: Configurable webcam resolution for better control over the output display.
 - **Easy Exit**: The application can be closed by pressing the 'q' key.
 
-## Prerequisites
+## Prerequisites 📋
 
 To run this script, you need to have the following libraries installed:
 
@@ -22,7 +22,7 @@ pip install opencv-python-headless
 pip install cvzone
 ```
 
-## How to Run
+## How to Run 🛠️
 
 ### Clone the Repository:
 
