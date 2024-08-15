@@ -17,9 +17,9 @@ To run this script, you need to have the following libraries installed:
 
 You can install these libraries using pip:
 
-```bash
+bash
 pip install opencv-python-headless
-pip install cvzone ```
+pip install cvzone
 
 ## How to Run
 
