@@ -19,7 +19,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install opencv-python-headless
-pip install cvzone
+pip install cvzone ```
 
 ## How to Run
 
