@@ -17,9 +17,10 @@ To run this script, you need to have the following libraries installed:
 
 You can install these libraries using pip:
 
-bash
+```bash
 pip install opencv-python-headless
 pip install cvzone
+```
 
 ## How to Run
 
@@ -28,10 +29,8 @@ pip install cvzone
 ```bash
 git clone https://github.com/Isa-khan/Basic-Hand-Detection-Script.git
 cd Basic-Hand-Detection-Script
-
-## Code Explanation
-Webcam Initialization: The webcam is initialized with a resolution of 1280x720 pixels.
-
+```
+### Then just run the script
 
 ## License
 This project is open source and available under the MIT License.
