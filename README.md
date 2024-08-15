@@ -20,3 +20,18 @@ You can install these libraries using pip:
 ```bash
 pip install opencv-python-headless
 pip install cvzone
+
+## How to Run
+
+### Clone the Repository:
+
+```bash
+git clone https://github.com/Isa-khan/Basic-Hand-Detection-Script.git
+cd Basic-Hand-Detection-Script
+
+## Code Explanation
+Webcam Initialization: The webcam is initialized with a resolution of 1280x720 pixels.
+
+
+## License
+This project is open source and available under the MIT License.
